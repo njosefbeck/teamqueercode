@@ -37,3 +37,6 @@ Thumbs.db
 
 node_modules
 bower_components
+.publish
+app/css/
+dist
